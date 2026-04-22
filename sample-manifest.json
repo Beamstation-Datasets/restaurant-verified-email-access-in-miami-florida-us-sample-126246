@@ -1,12 +1,12 @@
 {
-  "export_job_id": "9f888324-02ef-4926-8d44-79d924a9b06a",
+  "export_job_id": "fe5e996d-80fc-47f6-ae8f-018f2294e0b6",
   "id_short": 126246,
-  "published_at": "2026-04-18T07:23:11Z",
+  "published_at": "2026-04-22T19:15:01Z",
   "repo_name": "restaurant-verified-email-access-in-miami-florida-us-sample-126246",
   "sample_asset_name": "beamstation_126246_restaurants-us-fl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/126246/beamstation_126246_restaurants-us-fl_SAMPLE_DIST.csv",
-  "sample_records": 53,
-  "sample_sha256": "dc7ea19c79fca2ae354249a6e27bbceb91eaa1ba951a837e13bbc62aa8675a87",
-  "sample_size_bytes": 227826,
-  "total_records": 536
+  "sample_records": 32,
+  "sample_sha256": "22e39bfa2ad06405293356188da15acfe34058b3402a519507d8750a4fb1039d",
+  "sample_size_bytes": 144669,
+  "total_records": 329
 }
